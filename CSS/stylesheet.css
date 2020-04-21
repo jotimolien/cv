@@ -1,0 +1,29 @@
+body {
+  background-color: #DEE3E2;
+}
+
+h1 {
+  color: #5A3F11;
+}
+
+h2 , h3{
+  color: #9C5518;
+}
+
+p, label{
+  margin: 0px;
+  padding: 20px;
+}
+
+hr {
+  border-color: white;
+  border-style: dotted none none;
+  height: 0px;
+  border-width: 10px;
+  width:15%;
+}
+
+.footer {
+  color: grey;
+  text-align: center;
+}
